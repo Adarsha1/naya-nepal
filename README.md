@@ -1,37 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+---
 
-## Getting Started
+````markdown
+# 🇳🇵 Naya Nepal – Project Hub
 
-First, run the development server:
+A centralized platform to explore ongoing projects in Nepal — including non-profit and for-profit initiatives working toward national progress and community development.
+
+---
+
+## ⚙️ Prerequisites
+
+Before running the project locally, make sure you have the following installed:
+
+- [**Node.js**](https://nodejs.org/) (v18 or higher recommended)
+- **npm** (comes bundled with Node.js)
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Adarsha1/naya-nepal.git
+cd naya-nepal
+````
+
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Run the development server**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Your app should now be running at:
+👉 `http://localhost:3000`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧱 Tech Stack
 
-## Learn More
+* **Framework**: [Next.js (App Router)](https://nextjs.org/docs/app)
+* **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+* **Language**: TypeScript
+* **Package Manager**: npm
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Available Scripts
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Script          | Description                     |
+| --------------- | ------------------------------- |
+| `npm run dev`   | Starts the development server   |
+| `npm run build` | Builds the app for production   |
+| `npm run start` | Starts the production server    |
+| `npm run lint`  | Runs ESLint to check code style |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# naya-nepal
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Contributing
+
+Contributions, feedback, and ideas are welcome!
+Feel free to open an issue or submit a pull request.
+
+```
+
+---
+
+### ✅ Optional Add-ons (you can add later)
+
+Let me know when you add:
+- A database (e.g., PostgreSQL)
+- Deployment (e.g., Vercel, Railway)
+- Environment variables (e.g., `.env`)
+
+And I can help update this `README` to include setup instructions for those too.
+```
