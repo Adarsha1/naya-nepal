@@ -1,5 +1,5 @@
 ````markdown
-# 🇳🇵 Naya Nepal – Project Hub
+# 🇳🇵 Naya Nepal – Project Hubs
 
 A centralized platform to explore ongoing projects in Nepal — including non-profit and for-profit initiatives working toward national progress and community development.
 
