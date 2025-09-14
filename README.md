@@ -74,13 +74,3 @@ Feel free to open an issue or submit a pull request.
 ```
 
 ---
-
-### ✅ Optional Add-ons (you can add later)
-
-Let me know when you add:
-- A database (e.g., PostgreSQL)
-- Deployment (e.g., Vercel, Railway)
-- Environment variables (e.g., `.env`)
-
-And I can help update this `README` to include setup instructions for those too.
-```
